@@ -1,6 +1,6 @@
 # Algorithmes de compression de fichiers   
 
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>    
+<img alt="C" src="https://img.shields.io/badge/programming_language%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>    
 
 *Projet réalisé en binôme dans le cadre du cours "Projet Math-Info"*   
 **Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**
